@@ -1,5 +1,5 @@
 # Powershell System Inventory
-		Windows Machine Inventory Using PowerShell.
+<pre>		Windows Machine Inventory Using PowerShell.
     Written by - Alan Newingham
     Date: 9/3/2021
 
@@ -87,5 +87,5 @@ General Information
   -Manufacturer
   -Local Administrator
   -32 or 64 bit OS? 
-    
+</pre>
     
