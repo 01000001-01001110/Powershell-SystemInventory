@@ -1,7 +1,8 @@
 # Powershell System Inventory
-<pre>		Windows Machine Inventory Using PowerShell.
-    Written by - Alan Newingham
-    Date: 9/3/2021
+<pre>		
+Windows Machine Inventory Using PowerShell.
+Written by - Alan Newingham
+Date: 9/3/2021
 
 18 System Queries output to a styled single HTML page. 
 Last User Login 
