@@ -5,27 +5,27 @@ Written by - Alan Newingham
 Date: 9/3/2021
 
 18 System Queries output to a styled single HTML page. 
-Last User Login 
+<b>Last User Login </b>
   -Time & Date Last User Logged In
-Time Zone
+<b>Time Zone</b>
   -Bias
   -Time Zone
   -Standard Name
-Active USB Devices
+<b>Active USB Devices</b>
   -Class
   -Status
   -Device Name
   -Hardware Address
-Video Card Info
+<b>Video Card Info</b>
   -Status
   -Video Card Model
   -Video Card Memory
   -Driver Install Date
   -Driver Version
   -Current Screensize Setting
-Monitor Count
+<b>Monitor Count</b>
   -How Many Monitors Installed
-Enabled Network Adapter Info
+<b>Enabled Network Adapter Info</b>
   -Description
   -DHCP Server
   -IP Address
@@ -33,44 +33,44 @@ Enabled Network Adapter Info
   -Gateway
   -Domain
   -Primary and Secondary DNS
-Installed Printer Information
+<b>Installed Printer Information</b>
   -Printer Name
   -Associated Driver
   -State
   -Status
   -Address
-Installed Software
+<b>Installed Software</b>
   -Vendor Name
   -Software Title
   -Software Version
   -Registry Association
-Hotfix Information
+<b>Hotfix Information</b>
   -Hotfix name
   -Hotfix ID
-User Profiles Loaded
+<b>User Profiles Loaded</b>
   -What profiles are loaded on the computer
   -Last time the directory was written to
-Hard Disk Capacity
+<b>Hard Disk Capacity</b>
   -Device ID
   -Total Size
   -Free Size
-Hard Disk Information
+<b>Hard Disk Information</b>
   -Computer Name
   -Hard Disk Model
   -Capacity
-Operating System Information
+<b>Operating System Information</b>
   -OS System Directory location
   -Operating System {pro/home/workstation/etc...}
   -Build Number
   -Version
   -OS Serial
-BIOS Information
+<b>BIOS Information</b>
   -Manufacturer
   -Serial Number
   -Bios Version
-Boot Configuration
+<b>Boot Configuration</b>
   -OS Install Directory
-Memory Information
+<b>Memory Information</b>
   -Model
   -Physical Slot Occupied
   -Serial Number
@@ -78,12 +78,12 @@ Memory Information
   -Clock Speed
   -Voltage
   -Capacity
-Processor Information
+<b>Processor Information</b>
   -Processor Name
   -Current Clock Speed
   -Manufacturer
   -Processor Status
-General Information
+<b>General Information</b>
   -Model
   -Manufacturer
   -Local Administrator
